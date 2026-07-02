@@ -8,6 +8,9 @@ Largest Element
 Left Rotate Array by one place 
 Right Rotate Array by k places
 Move Zeroes to End
+Day 2 ( 2 July 2026 ) :
+Union of two sorted array
+
 ## Goal
 To improve problem-solving skills and build a strong foundation in Data Structure and Algorithm .
 ## Language
