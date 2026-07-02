@@ -1,17 +1,24 @@
 # DSA Practice
-This repository contains my Data Structure and Algorithm (DSA) solutions in C++ .
-## Topics Covered
-Array
-## Day Tracker
-Day 1 ( 1 July 2026 ) : 
-Largest Element
-Left Rotate Array by one place 
-Right Rotate Array by k places
-Move Zeroes to End
-Day 2 ( 2 July 2026 ) :
-Union of two sorted array
 
-## Goal
-To improve problem-solving skills and build a strong foundation in Data Structure and Algorithm .
-## Language
-C++
+This repository contains my Data Structures and Algorithms (DSA) solutions in C++.
+
+## 📚 Topics Covered
+- Arrays
+
+## 📅 Day Tracker
+
+### Day 1 (1 July 2026)
+- Largest Element
+- Left Rotate Array by One Place
+- Right Rotate Array by K Places
+- Move Zeroes to End
+
+### Day 2 (2 July 2026)
+- Union of Two Sorted Arrays
+- Maximum Consecutive Ones
+
+## 🎯 Goal
+To improve problem-solving skills and build a strong foundation in Data Structures and Algorithms.
+
+## 💻 Language
+- C++
