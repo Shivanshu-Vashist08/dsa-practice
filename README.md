@@ -18,6 +18,8 @@ This repository contains my Data Structures and Algorithms (DSA) solutions in C+
 - Maximum Consecutive Ones
 - Missing Number 
 
+### Day 3 (3 July 2026)
+- Single Number
 ## 🎯 Goal
 To improve problem-solving skills and build a strong foundation in Data Structures and Algorithms.
 
