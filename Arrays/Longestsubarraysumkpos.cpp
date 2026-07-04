@@ -3,6 +3,25 @@
 #include<iostream>
 using namespace std;
 int LongestSubarray(int arr[],int n,int k){
+    // BRUTE SOLUTION
+/*
+int maxlen=0;
+for (int i = 0; i < n ;i++)
+{
+for (int j = i; j < n; j++)
+{
+    int sum=0;
+  for(int k=i;k<=j;k++){
+sum+=arr[k];
+  }
+  if(sum==k){
+    maxlen=max(maxlen,j-i+1);
+  }
+}
+
+}
+return maxlen;
+*/
 int sum=0;
 int st=0,end=0;
 int maxlen=0;
